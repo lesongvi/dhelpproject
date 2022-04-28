@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T05:14:58.653Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="wsnYl2czLQCevEHvnpr2" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-28T05:15:36.432Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="D-UsgmhxToaqVcRNCCRJ" version="17.4.6" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="836" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -31,8 +31,8 @@
             <mxPoint x="350" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IyEMO3i7sC9zSTPUe0GS-7" value="Form thêm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="314" y="107" width="70" height="20" as="geometry" />
+        <mxCell id="IyEMO3i7sC9zSTPUe0GS-7" value="Form cập nhật" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="304" y="107" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IyEMO3i7sC9zSTPUe0GS-8" value="1. Yêu cầu cập nhật đơn vị" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=0.1;entryY=0.263;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="IyEMO3i7sC9zSTPUe0GS-5" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
