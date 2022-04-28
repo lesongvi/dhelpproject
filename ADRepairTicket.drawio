@@ -1,1 +1,107 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T05:41:40.880Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="TtPajz2D512oCTD3QZXP" version="17.4.6" type="github"><diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">7VrbbuMqFP0aP7bCBif2Y5JeZh5GGqlHmplH1yExGsfkOKRJ5+sPGPAFciGpk2ak04fKbC6Gxdp7L3A8OFlsn8tkmX2jU5x7AZhuPfjgBUEEB/y/MLxLA4qRNMxLMpUmvzG8kD9YGYGyrskUrzoNGaU5I8uuMaVFgVPWsSVlSTfdZjOad9+6TObYMrykSW5bf5Apy5TVH8RNxRdM5pl6dRSoBb8m6e95SdeFel9BCyxrFokeRq1xlSVTummZ4KMHJyWlTD4tthOcC1Q1YrLf057aesolLphLh0B2eEvytVr1aLoghZoce9dYrDZkkSd8GXC8yQjDL8skFVUbvvPcNqMFe1GtgT0HNa03XDK8bZnUnJ4xXWBWvvMmunaA7kPZSZHHDyJZ3jRbEUTqXVlrF8KhMiZq++f16A0O/EFBsRuW0ILFQoR34EQUgPA9XArjiiUlRyFhwjgjeT6hOS2r1hBUf6IxK+lv3KqZzVSNDVtwMmwAdEBDwMIM7oAM9oAYiQavePljFUwW0SZ7/vo4CJd3CNo4TpAXA/E/gsWc1xWZ9+h745E3eliKOeykX+VMWLzK38PAjC1yVd0DkKFJPhvI2nYdJJEDI4vpSIQ9XkrzZLUiaReXBkRBN7wl7Kd45o4mS79UO/H8sG01e3jXhYKvpdVJFH+165puVUn327sjK7ouU9zxOe5Ec8wcSIWnnfBt72Vrs8JdgULZSpwnjLx1g/6uDVRv+E4JX0VNlQCGRqjiiaA7iFyl6tcOxuZQkTUUNIaS6FhDVZyql/4BmtmBbyL9c+xFD9wvwb9r7a5QFHNvAr0xb1e5dOx7k4E38kVNJmpGQPj4jTlzHLg5M7qYM8cWyv9olMd+KqZBNOhDgWXaCZGtiMn+JuCDQfjJwIe+BfzPCq0K9BauitoDbwzWIiZVmI5RlbCYyE9/D+oQfTbdQ1tk9pe7fNjKXuA+HoaHMxgvfMcl4SvD5SnZ6aAj32wqgsMzUxE/5ZhDIWOo/lKRrRK/1OFPep8sxf4O97ryyQShzz2Z6DPmQWfidNRrxvkr3Tw2hnFl4BUZLckfDk7C3zQW6yf85DvKybzgla+UMbqodFztl3SJC2lRR/Vo13Hm6UkdZ3i7J5Lv8l9rE1wFnd4g2D3lxAdg3cNuYwQfhk7ctgdCQ5MN5lB7PK43xXZKStNJa9/hi+ksllWio855/WY07e7OPhcBE2R/h5LwY93qOiJuaEetWrVV2riOW9FYwyl3hSWvN6Gke9iI2PFgrA9t/YsLO3lMDqllHq8q5qcSX4Gnzi5PvDBVhZEo5I0KX98e9jcg7E66JmvBoW/MRC7p8b7sZEz9wFQ5CNqgXvXKLHTJ76eJ5TMvbVoiG0TtK6J7EPQhstVuHRXZ2sOPXgxpOt6IGr+DplI8X41buj4wRrr0vVD/R7ialR1ONhQ9wkrfax/7DvPR5p7vyD3kyj0tw26EezDsCtzAPHq4Mg8ZA8GBMdCliecQDtN1+VYn4qvHRufL8w+wUH/9PMrC24qAyPwc5V+ZhZwJyXur2VI0WO2fcBgZ7wHg4LxCcFp7E5Bj7SE6rX1weP78QSLSr4tGveeGM2J87cl34B5IvXJCUhGl44rF2V+dP2UN//fXS2QN/foLyBWufgEy2BWcxa/2JfbQ/ROsk7Z2ZurQlam3ddNtMTXoi6mmUOotswwN10KXj8zhxX40wL3A+PASnvHhpaW+7JB95Zgdumqs8LZ+fmB6Qi1JPuoJdfnDMZsXmx+0yebN7wXh438=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-28T05:43:11.630Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="Njkjd8SvFFnSXC1myJH3" version="17.4.6" type="github">
+  <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
+    <mxGraphModel dx="836" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Admin" style="swimlane;whiteSpace=wrap;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="164.5" y="128" width="280" height="492" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="2" vertex="1">
+          <mxGeometry x="100" y="40" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i86bepWs2Cm8whGIE65p-43" value="Đăng nhập admin" style="rounded=1;whiteSpace=wrap;html=1;" parent="2" vertex="1">
+          <mxGeometry x="55" y="120" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i86bepWs2Cm8whGIE65p-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="2" source="5" target="i86bepWs2Cm8whGIE65p-43" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="235.5" y="282" as="sourcePoint" />
+            <mxPoint x="285.5" y="232" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i86bepWs2Cm8whGIE65p-45" value="Chọn quản lý phiếu sửa chữa" style="rounded=1;whiteSpace=wrap;html=1;" parent="2" vertex="1">
+          <mxGeometry x="55" y="205" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i86bepWs2Cm8whGIE65p-49" value="Thực hiện cập nhật phiếu/đơn" style="rounded=1;whiteSpace=wrap;html=1;" parent="2" vertex="1">
+          <mxGeometry x="55" y="265" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i86bepWs2Cm8whGIE65p-51" value="Xác nhận lưu thông tin phiếu/đơn" style="rounded=1;whiteSpace=wrap;html=1;" parent="2" vertex="1">
+          <mxGeometry x="55" y="342" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i86bepWs2Cm8whGIE65p-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.513;exitY=0.975;exitDx=0;exitDy=0;exitPerimeter=0;" parent="2" source="i86bepWs2Cm8whGIE65p-49" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="235.5" y="372" as="sourcePoint" />
+            <mxPoint x="116.5" y="342" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3" value="Hệ thống" style="swimlane;whiteSpace=wrap;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="444.5" y="128" width="280" height="492" as="geometry" />
+        </mxCell>
+        <mxCell id="26" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#FF0000;endFill=1;rounded=0" parent="3" edge="1">
+          <mxGeometry x="130" y="90" as="geometry">
+            <mxPoint x="130" y="135" as="targetPoint" />
+            <mxPoint x="147.5" y="135" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i86bepWs2Cm8whGIE65p-41" value="Xác nhận đăng nhập thành công" style="rounded=1;whiteSpace=wrap;html=1;" parent="3" vertex="1">
+          <mxGeometry x="80.5" y="115" width="119.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i86bepWs2Cm8whGIE65p-47" value="Hiển thị các danh sách phiếu/đơn sửa chữa và các tab trạng thái" style="rounded=1;whiteSpace=wrap;html=1;" parent="3" vertex="1">
+          <mxGeometry x="80.5" y="190" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="i86bepWs2Cm8whGIE65p-53" value="Cập nhật trong cơ sở dữ liệu" style="rounded=1;whiteSpace=wrap;html=1;" parent="3" vertex="1">
+          <mxGeometry x="80.5" y="342" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i86bepWs2Cm8whGIE65p-55" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="3" vertex="1">
+          <mxGeometry x="126.5" y="432" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i86bepWs2Cm8whGIE65p-56" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.508;exitY=1.025;exitDx=0;exitDy=0;exitPerimeter=0;" parent="3" source="i86bepWs2Cm8whGIE65p-53" target="i86bepWs2Cm8whGIE65p-55" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-34.5" y="372" as="sourcePoint" />
+            <mxPoint x="15.5" y="322" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i86bepWs2Cm8whGIE65p-42" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="i86bepWs2Cm8whGIE65p-43" target="i86bepWs2Cm8whGIE65p-41" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="270" as="sourcePoint" />
+            <mxPoint x="450" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i86bepWs2Cm8whGIE65p-46" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="i86bepWs2Cm8whGIE65p-41" target="i86bepWs2Cm8whGIE65p-45" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="410" as="sourcePoint" />
+            <mxPoint x="450" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="300" />
+              <mxPoint x="500" y="300" />
+              <mxPoint x="400" y="300" />
+              <mxPoint x="340" y="300" />
+              <mxPoint x="280" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i86bepWs2Cm8whGIE65p-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.008;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="i86bepWs2Cm8whGIE65p-45" target="i86bepWs2Cm8whGIE65p-47" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="410" as="sourcePoint" />
+            <mxPoint x="450" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i86bepWs2Cm8whGIE65p-50" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.004;entryY=0.525;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.517;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="i86bepWs2Cm8whGIE65p-47" target="i86bepWs2Cm8whGIE65p-49" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="420" as="sourcePoint" />
+            <mxPoint x="450" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="587" y="414" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i86bepWs2Cm8whGIE65p-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.013;exitY=0.575;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.008;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="i86bepWs2Cm8whGIE65p-51" target="i86bepWs2Cm8whGIE65p-53" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="500" as="sourcePoint" />
+            <mxPoint x="450" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
