@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-29T04:46:41.585Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="vpIkL3bCd5G9UdMVhOa5" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-05T12:10:34.904Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="VPY2Cx-OIneVT5Oex4yD" version="20.5.1" type="github">
   <diagram name="Page-1" id="b5b7bab2-c9e2-2cf4-8b2a-24fd1a2a6d21">
-    <mxGraphModel dx="1306" dy="1949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1306" dy="2020" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,7 +25,7 @@
         <mxCell id="3tjK6XLKCkqj8lEsVFmz-10" value="Quản lý danh mục" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="40" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3tjK6XLKCkqj8lEsVFmz-12" value="Quản lý thuật toán" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="3tjK6XLKCkqj8lEsVFmz-12" value="Quản lý danh mục thuật toán" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="80" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3tjK6XLKCkqj8lEsVFmz-14" value="Quản lý đặt hàng" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
